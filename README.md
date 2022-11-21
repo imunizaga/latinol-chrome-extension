@@ -1,0 +1,1 @@
+# latinol-chrome-extension
